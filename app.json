@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "deliveryPizza",
+    "slug": "deliveryPizza",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "deliveryPizza"
+}
